@@ -35,7 +35,9 @@ Start the capture, apply filters (like http, tcp, ip.addr == x.x.x.x) to analyze
 Wireshark Packet Capture and Filter Usage
 
 ## OUTPUT:
-Captured Packets with Protocol Analysis and Detailed Packet Info
+<img width="1548" height="744" alt="HAS exp 9 1" src="https://github.com/user-attachments/assets/9a056456-36bc-4964-80d6-dc0e5afe07c6" />
+<img width="1548" height="744" alt="HAS exp 9 2" src="https://github.com/user-attachments/assets/383aae6c-9640-495f-b0e3-8fe2031bcc30" />
+
 
 ## RESULT:
 Network traffic was successfully captured and analyzed using Wireshark.
